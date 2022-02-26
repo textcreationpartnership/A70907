@@ -1,0 +1,650 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Some seri]ous reflections on that part of [Mr]. Bunion's [Con]fession of faith: [t]ouching [church] communion with [unbapti]zed persons: [a]s also ... [a]rguments against the ..., and seven queries ... [t]o the author. ... [serva]nt of Christ &amp; the Church</title>
+            <author>Paul, Thomas, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70907</idno>
+            <idno type="STC">Wing P877A</idno>
+            <idno type="STC">ESTC R439</idno>
+            <idno type="EEBO-CITATION">99834884</idno>
+            <idno type="PROQUEST">99834884</idno>
+            <idno type="VID">39503</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70907)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39503)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 431:21, 1995:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Some seri]ous reflections on that part of [Mr]. Bunion's [Con]fession of faith: [t]ouching [church] communion with [unbapti]zed persons: [a]s also ... [a]rguments against the ..., and seven queries ... [t]o the author. ... [serva]nt of Christ &amp; the Church</title>
+                  <author>Paul, Thomas, 17th cent.</author>
+                  <author>Kiffin, William, 1616-1701.</author>
+               </titleStmt>
+               <extent>[10], 62 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Francis Smith, at the Elephant and Castle near the Royal Exchange in Cornhill, and at the same sign the first shop without Temple-Bar,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Thomas Paul; published by Thomas Paul and William Kiffin. Cf. BM.</note>
+                  <note>"To the reader" signed: W.K., i.e. William Kiffin.</note>
+                  <note>Bunyan, John.  "Confession of my faith" was published in 1672.</note>
+                  <note>Identified as Wing P118 (number cancelled in Wing 2nd ed.) on UMI microfilm "Early English books, 1641-1700" reel 431.</note>
+                  <note>Imperfect; title page and other pages mutilated, with much loss of print.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bunyan, John, 1628-1688. --  Confession of my faith and a reason of my practice --  Controversial literature --  Early works to 1800.</term>
+               <term>Baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39503:1" rendition="simple:additions"/>
+            <pb facs="tcp:39503:1" rendition="simple:additions"/>
+            <p>SOME <gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ous Reflections On that Part of <hi>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>B<g ref="char:V">Ʋ</g>NIONS</hi> 
+               <gap reason="illegible" resp="#APEX" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>sion of Faith: <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>OUCHING <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Communion</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ITH <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Perſons: <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ALSO <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rguments againſt the <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and Seven Queries <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Author.</p>
+            <p>
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of Chriſt &amp; the Church.</p>
+            <p>
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that is firſt in his own cauſe <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> juſt, but his Neighbour cometh and ſercheth him.</p>
+            <p>Pſalm 55. 12, 13 14. For it was not an Ene<g ref="char:EOLhyphen"/>my that reproached me, then I could have born it, &amp;c.</p>
+            <p>London, Printed for Francis Smith, at the Elephant and Caſtle near the Royal Ex<g ref="char:EOLhyphen"/>change in Cornhill, and at the ſame ſign the firſt Shop with<g ref="char:EOLhyphen"/>out Temple-Bar, 1673.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:39503:2"/>
+            <pb facs="tcp:39503:2"/>
+            <head>
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>teous Reader,</head>
+            <p>HEre is preſented to thy ſerious Conſiderati<g ref="char:EOLhyphen"/>on, ſome obſervati<g ref="char:EOLhyphen"/>ons upon a late Book, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ti<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>led, <hi>The Confeſſion of Faith,</hi> of <hi>I. B.</hi> Wherein that Author declareth his Faith conſerning Church Fellowſhip, and the way of entrance therein: Endea<g ref="char:EOLhyphen"/>vouring, after his manner, to prove that Men and Women that believe in Jeſus Chriſt, al<g ref="char:EOLhyphen"/>though not Baptized with wa<g ref="char:EOLhyphen"/>ter, may be Members of any
+<pb facs="tcp:39503:3"/>
+perticular Church of Chriſt <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ought to be admitted to <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Lords Supper, and all oth<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Church Ordinances; A Doctri<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not known or practiſed in the firſt Goſpel Churches, or by a<g ref="char:EOLhyphen"/>ny others of what perſwaſio<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ever, that have profeſſed <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Chriſtian Faith, ſince that ti<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to this very age: as for <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> practice of the Churches <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Primative times, the Scripture is in no one thing plainer then in this, that all Perſons before they were added to the Church, were Baptized with Water, which appeareth both by the Commiſſion given by Jeſus Chriſt, <hi>Mat.</hi> 28. 19. and the Practiſe of the Apoſtles, <hi>Acts</hi> 2. 38, 39. Which is more at large ſhewed in this Treatiſe: I ſuppoſe the
+<pb facs="tcp:39503:3"/>
+Author who himſelf is againſt <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Baptizing of Children, and or the Baptizing of Believers, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their profeſsion of Faith in <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iſt, makes it none of the leaſt <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his Arguments, why he is a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ſt Childrens Baptiſm, then <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</hi> that there being no <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reſident, or example in <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>iptures for Childrens <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, therefore Children ought not to be Baptized. If this Argument be good (as I believe it is) that cauſeth him to forſake the practice of Baptizing Chil<g ref="char:EOLhyphen"/>dren; why ſhould it not be as good at leaſt to him in the caſe in hand? but to cauſe in him the ſame belief, that none ought to be admitted to the Lords Sup<g ref="char:EOLhyphen"/>per, but ſuch as a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Baptized with Water, ſeeing there cannot
+<pb facs="tcp:39503:4"/>
+be ſhown any Precept <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or Example in the Scriptures that any Unbaptized-perſon <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ever admitted to the Lords <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> per; for the Scriptures alle<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by him, and ſome Conſequen<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> drawn therefrom to the <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, if they be ſeriouſly <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by the Reader, they <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a great deal of bould <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> confidence of his own, but not a<g ref="char:EOLhyphen"/>ny thing to the matter, to prove what they are brought for, but it is very uſual for ſuch perſons who have not the truth with them, to fill their Writings with their own confidences, that ſo they may induce a belief in o<g ref="char:EOLhyphen"/>thers, of the things they aſſert from their own Authority. The ſevere Charges laid by him a<g ref="char:EOLhyphen"/>gainſt thoſe that are contrary
+<pb facs="tcp:39503:4"/>
+minded, if true, would be ſuffi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nt to frighten them into his perſwaſion, but we paſs not for mans judgement, knowing that he which judgeth us is the Lord, who will bring the hidden <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hings of darkneſs to light, all we plead for is, that all that pro<g ref="char:EOLhyphen"/>feſs themſelves to be Chriſti<g ref="char:EOLhyphen"/>ans, ſhould walk according to the Primative pattern, and in this matter we are ſure we fol<g ref="char:EOLhyphen"/>low none other but the foot<g ref="char:EOLhyphen"/>ſteps of the Flock of Chriſt in all ages.</p>
+            <p>We would appeal to the con<g ref="char:EOLhyphen"/>ſcience of this Appoſer, whe<g ref="char:EOLhyphen"/>ther the Arguments publiſhed by many for Baptizing of chil<g ref="char:EOLhyphen"/>dren, have not more force in them, and of greater Antiquity (although in our judgements
+<pb facs="tcp:39503:5"/>
+ſhort of proof) then any <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that is Writ by him, to <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the lawfulneſs of any to rec<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the Lords Supper that is not fir<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Baptized with Water. I ſhal<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſay nothing of the great co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tempt caſt by him upon Wa<g ref="char:EOLunhyphen"/>ter Baptiſm, but deſire the Lord may humble him for it; Wiſdom is juſtified of her chil<g ref="char:EOLhyphen"/>dren.</p>
+            <p>I deſire to Honour and Reve<g ref="char:EOLhyphen"/>rence thoſe many faithful Chri<g ref="char:EOLhyphen"/>ſtians that differ from us, who notwithſtanding value this Or<g ref="char:EOLhyphen"/>dinance of Chriſt, only miſtake in the ſubject, and are far from placing Religion only in this or any other inſtitution of Chriſt; but finding the Scriptures ſhew no other Rule in the Order of inſtituted Worſhip, then upon
+<pb facs="tcp:39503:5"/>
+believing, to be firſt Baptized, then added to the Church, we dare not be wiſe above what is Written.</p>
+            <p>Communion with all Saints, i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all things, is a deſireable thing, and not the leaſt part of th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Glory which will for ever <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e injoyed in Heaven, and it would be a bleſſed thing, if while Chriſtians differ in their light, the beſt knowing but in part, it might be maid up by an increaſe of love, this would con<g ref="char:EOLhyphen"/>vince the World they were Chriſts Diſciples indeed; but care muſt be had in the firſt place, to obſerve the Rules given by our great Lord, and to walk according to them, and not for Communion ſake to leap over the Order Jeſus Chriſt
+<pb facs="tcp:39503:6"/>
+hath Preſcribed in his Word; I ſhall not trouble thee any lon<g ref="char:EOLhyphen"/>ger, but commend the conſide<g ref="char:EOLhyphen"/>ration of the matter Inſuing to thy ſerious Thoughts, and th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bleſsing of that God who i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> able to cauſe all Grace and Truth to abound in thy Sou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g>
+            </p>
+            <closer>
+               <signed>Thine in the Lord, W. K.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:39503:6"/>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>YOur <hi>Confeſſion of Faith</hi> I have viewed, and have reviewed that part which reſpects Church Communion with Unbap<g ref="char:EOLhyphen"/>tized perſons: ſhould all of your rank, take occaſion to tell the World what they do, and do not believe or practice, it might give them more imployment then they can or need to attend: I ſhould little have troubled my ſelf, to take notice of the reſt of your offers, in your Con<g ref="char:EOLhyphen"/>feſſion, had you not under the head before expreſſed, ſhewed your ſelf ſo bold to aſſert that which is yet unproved; neither ſhould I have medled with the controverſie at all,
+<pb n="2" facs="tcp:39503:7"/>
+had I found any, of parts, that would divert themſelves from more weighty occaſions, to take notice of you; but ſince you are ſo willing to be known in the World, by you. Singular Faith, it is my liberty, as well as others, into whoſe hands it falls, to weigh what you have ſaid, in truths ballance: and if it be found too light, to reject it whether you will or no. Though I love not Con<g ref="char:EOLhyphen"/>troverſies, yet Truth muſt not be loſt.</p>
+            <p>Now Sir, for your Ten Argu<g ref="char:EOLhyphen"/>ments, for your practice; with the Eighteen Abſurdities, drawn from the Principle or Practice of them that are contrary minded; wherein you inſult over them, as Babes fooliſh, yea Beaſts, if not Men, as you ſeem proudly and imperiouſly to aſſert: You by your fixing of theſe abſurdities upon this innocent Principle and Practice, do not con<g ref="char:EOLhyphen"/>tent your ſelf to degrade all the
+<pb n="3" facs="tcp:39503:7"/>
+Baptized Brethren, of this perſwaſi<g ref="char:EOLhyphen"/>on; but with too much impudence, do Render them amongſt the worſt of men, medling with the very Secrets of the moſt High, which are ſo much out of your reach, that you have rendred them that oppoſe your Principle; to be the cauſe of the Deaths of thoſe Hundreds of Thou<g ref="char:EOLhyphen"/>ſands that have fallen by Gods Judgements in theſe late years; one of the moſt Prodigiouſeſt Sentence that ever I heard paſs from the Mouth, or fall under the Pen of the worſt of Truths Enemies, as though nothing ſhort, in your rage, would ſerve you then to defie all the Brethren of the Baptized way, and <hi>Blaſpheam</hi> them that dwell in Hea<g ref="char:EOLhyphen"/>ven. I ſhall orderly touch at theſe things as I go along.</p>
+            <p>Your great noiſe about an Initi<g ref="char:EOLhyphen"/>ating Ordinance, wherein you ſpend time enough, I ſhall take no notice of, I know none that aſſert it to
+<pb n="4" facs="tcp:39503:8"/>
+be the Inlet into perticuler Churches, though it prepares them for Reception<hi>:</hi> It's conſent <hi>ON</hi> all hands, and nothing elſe, that makes them Members of this or that perticuler Church, and not Faith and Baptiſm.</p>
+            <p>You are pleaſed in the general, before you come to <hi>your</hi> Arguments, to call in ſeveral Scriptures to ſup<g ref="char:EOLhyphen"/>port your practice, which your ſelf do acknowledge are not direct to the purpoſe, as <hi>Acts</hi> 9. 25, 26, 27. 1 <hi>Cor.</hi> 16. 10. 2 <hi>Cor.</hi> 8. 23. Which you confeſs reſpects the receiving them as Officers<hi>:</hi> is there no diffe<g ref="char:EOLhyphen"/>rence between the receiving of the one, and of the other? muſt <hi>Phebees</hi> caſe, and others of the like nature, be brought in to patronize your Practice, when there is no<g ref="char:EOLhyphen"/>thing in them that reſpects the mat<g ref="char:EOLhyphen"/>ter in Controverſie. Were any of theſe Unbaptized perſons? ſay it if you dare. Sure it is a bad Cauſe,
+<pb n="5" facs="tcp:39503:8"/>
+that muſt be upheld by ſuch for<g ref="char:EOLhyphen"/>raign and remote ſhifts: beſides, what need <hi>Paul</hi> plead for the Vindi<g ref="char:EOLhyphen"/>cation of himſelf, or others? that he was Baptized, when your ſelf ac<g ref="char:EOLhyphen"/>knowledge that Baptiſm immedi<g ref="char:EOLhyphen"/>ately after Converſion, was the known practice of the firſt Chriſti<g ref="char:EOLhyphen"/>ans; which none in thoſe times did ſo much as queſtion, therefore no need to plead that, but his Conver<g ref="char:EOLhyphen"/>ſation in thoſe things, about which the falſe Apoſtles, or other, might injuſtly tax him.</p>
+            <p>You ſtart a Queſtion, <hi>Page</hi> 70. by what rule Perſons are to be recei<g ref="char:EOLhyphen"/>ved. And Anſwer, by a diſcovery of their Faith and Holineſs, and Willingneſs to ſubject to all Chriſts Laws. And pray you tell me, is obeying Baptiſm, no part of a Chri<g ref="char:EOLhyphen"/>ſtians Holineſs? is Baptiſm none of the Laws of Chriſt, the Law-giver? muſt this, with others have no place of diſcovery? but muſt
+<pb n="6" facs="tcp:39503:9"/>
+it altogether be ſhut out from being a witneſs to the truth of Faith: if it muſt, lets know by what rule, for we ſhall not take your word, but by holineſs. I perceive you mean only <hi>a</hi> walking, according to the Moral precept, <hi>which with Faith in Chriſt</hi> is ſufficient to make a <hi>Church-Member,</hi> ſo that I perceive <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> is more beholden to you then Chriſt; the Servant then the Son, if <hi>Moſes</hi> Law in his Moral pre<g ref="char:EOLhyphen"/>cepts, be the onely bounds of a Chriſtians Holineſs or Sanctifi<g ref="char:EOLhyphen"/>cation, under the Goſpel, for what end, then are all thoſe Goſpel-Commands, eſpecially in inſtituted Worſhip, they are in your cenſe of little uſe to us: obe<g ref="char:EOLhyphen"/>dience to them doth not add to our Holineſs, therefore a breach of them, by that rule, muſt be no part of our ſin.</p>
+            <p>But you tell us, <hi>Page</hi> 93. None ever received Baptiſm, without
+<pb n="7" facs="tcp:39503:9"/>
+light in it: I grant it, they never received it aright, which is a clear Argument, that the perſons you plead for, for Church-fellowſhip, never received it at all, becauſe they could not then have light in it when they were ſprinkled, and therefore ought to repent and be aſhamed of that abomination, before they come to have a ſight of the pattern of the Houſe of God, the goings in, and comings out thereof, <hi>Ezek.</hi> 43. 10, 11.</p>
+            <p>2. Is it a Perſons light, that gives being to a Precept? is it not his ſin, though he want light? he that knew not his Maſters will was beaten, becauſe it is like he had means to know it, though he was ignorant.</p>
+            <p>3. Suppoſe men plead want of light in other Commands, muſt they be excuſed? what if a man want light in the Supper after he's in the Church, or in Church-Govern<g ref="char:EOLhyphen"/>ment, and therefore thinks not him<g ref="char:EOLhyphen"/>ſelf
+<pb n="8" facs="tcp:39503:10"/>
+accountable for his Converſati<g ref="char:EOLhyphen"/>on to men, but God: or what if a man want light in his Duty to the poor, and thinks it enough to bid his brother be fed, and be cloathed, though he give little for his relief: Perhaps he may give Two Pence, when according to what he hath, he ought to give Twelve Pence? Why may not want of Light, excuſe theſe men from being rejected out of Churches, as well as want of light makes way for Unbaptized to come in? But perhaps you will ſay, theſe are Moral evils, and they ſin againſt men, well, let it be ſo: but I remem<g ref="char:EOLhyphen"/>ber what Old <hi>Samuel</hi> ſaid to his Sons, 1 <hi>Sam.</hi> 2. 25. <hi>If one Man ſin againſt another, the Judge ſhall plead for him, but if a man ſin againſt the Lord, who ſhall plead for him?</hi> But we have now found an Advocate for Sin againſt God, in the breach of One of his Holy Commands: when ſin againſt the Law of God, that
+<pb n="9" facs="tcp:39503:10"/>
+wrongs the poor ſhall not go free.</p>
+            <p>You are pleaſed to tell us, that ſame Object, <hi>Page</hi> 86. againſt your Proofs, out of the Epiſtles, becauſe they were Writ to perticular Churches: and indeed, I am one of thoſe ſame, to which you Anſwer, that ſome of them, as the firſt Epiſtle of <hi>Corinth.</hi> and ſome others named, were not ſo directed, but to perticular Saints, as well as Chur<g ref="char:EOLhyphen"/>ches.</p>
+            <p>I anſwer, I think that will be difficult for you to prove: For it is apparent, the matter of thoſe Epi<g ref="char:EOLhyphen"/>ſtles did reſpect Churches, and thoſe Churches in ſpecial to whom Directed (though of uſe to all Saints) as I might eaſily demon<g ref="char:EOLhyphen"/>ſtrate: But ſir, pray you tell us, in your next, whether any of thoſe you mean, were Unbaptized beleivers, that were concerned in thoſe Epi<g ref="char:EOLhyphen"/>ſtles: foraſmuch as you confeſs, in thoſe times Baptiſm followed imme<g ref="char:EOLhyphen"/>diately
+<pb n="10" facs="tcp:39503:11"/>
+upon Converſion: if the<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were not Unbaptized Believers, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is without our queſtion, for <hi>Pa<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> might Write to them as well a <hi>Timothy</hi> and others, that they migh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> know how to behave themſelves i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Houſe of God.</p>
+            <p>You alſo ſay, <hi>Page</hi> 16. If Wate<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Baptiſm as other things, peſter th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Church as of Old, trouble the peace wound the Conſcience of the God<g ref="char:EOLunhyphen"/>ly, diſmember and break their fel<g ref="char:EOLhyphen"/>lowſhips, though an Ordinance, it'<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> prudently to be ſhunned.</p>
+            <p>I anſwer, it's very boldly offered who gave you liberty to ſhun Truth for Peace; But you hint, the Church hath of old been peſtred with Bap<g ref="char:EOLhyphen"/>tiſm, and therefore when it is ſo, it may prudently be ſhunned. I confeſs if ever you find Baptiſm a Peſt or Plague to Churches, all men will ſhun the Plague: is this the beſt Title you can give to one of Chriſts Commands? did God ever
+<pb n="11" facs="tcp:39503:11"/>
+ſend an Ordinance, as a Peſt and Plague to his People? are not all <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Ordinances of the Goſpel, Bleſſings, yea, New Covenant Bleſſings? is there any thing in the nature of Innocent Baptiſm, to Peſter Churches, or do they Peſter Churches that plead for it, or they that deny it? but the Conſciences of the Godly, you ſay; are wound<g ref="char:EOLhyphen"/>ed, the Churches Peace broken, their fellowſhip diſmembred, and what then? Suppoſe theſe effects follow perſons oppoſing other Ordi<g ref="char:EOLhyphen"/>nances, muſt they be ſhunned, to avoid the effects? I have in my time known Godly Conſcientious perſons Diſmember Fellowſhips, break the Peace of Churches, by <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nakeing Preaching by Method, Doctrine, Reaſon, and Uſe, to be Antichriſtian; who could not be ſatisfied in their Conſciences, as they ſaid, unleſs the great Ordi<g ref="char:EOLhyphen"/>nance of thus Preaching, was ex<g ref="char:EOLhyphen"/>ploded,
+<pb n="12" facs="tcp:39503:12"/>
+and ſome thing like Con<g ref="char:EOLhyphen"/>ference btought in the room. I have known perſons make a Sacrifice of the peace of Churches, for putting the Adminiſtration of breaking Bread upon perticuler perſons, by Church-appointment, and not leaveing it promiſciouſly amongſt the Gifted-Brethren, as each of them was Free; and theſe as exact Moraliſts in their lives, and as Holy in their Converſations, as any of your Unbaptized perſons, that you ſo highly extoll above others, to be the Honour and Crown of Churches; and muſt the Church for peace ſake ſhun theſe Great Appointments of Preaching and Breaking Bread, rather then Grieve the Conſci<g ref="char:EOLhyphen"/>ences of theſe Godly ones? though it was no part of their Godlineſs to make ſuch Breaches, neither is it for any of thoſe you plead for, to deny Baptiſm, how Godly
+<pb n="13" facs="tcp:39503:12"/>
+ſoever they may be in other things: if this be your Prudence or Wiſ<g ref="char:EOLhyphen"/>dom, to ſhake hands with Truth and Purity, for peace, the Lord deliver me from ſuch a Fellow<g ref="char:EOLhyphen"/>ſhip; This Wiſdom is from beneath and not from above.</p>
+            <p>Your Second Argument is taken from <hi>Epheſians</hi> 4. <hi>One Spirit, one Hope, one Faith, one Baptiſm;</hi> This Baptiſm, you ſay, is not of Water, but the Spirit.</p>
+            <p>I Anſwer, I ſee rather then you will miſs your end in ſaying ſome<g ref="char:EOLhyphen"/>thing, you care not if your Pen be imployed againſt every man, and you give the lye to all Expoſitors beſides your ſelf (as I know of) if this be Spirit Baptiſm. Pray you tell me what you mean by Spirit Baptiſm: if you mean the work of the Spirit in Converſi<g ref="char:EOLhyphen"/>on, I grant Converſion is the Spi<g ref="char:EOLhyphen"/>rits Work; but where Converſi<g ref="char:EOLhyphen"/>on barely without extraordinary
+<pb n="14" facs="tcp:39503:13"/>
+gifts, is called the Baptiſm of the Spirit, I am in a readineſs to learn, if you can teach me, but why muſt this Baptiſm not be Water Baptiſm, if Water Baptiſm be a Truth, the Spirit leadeth into this Truth, as well as others: if <hi>Paul</hi> intended Spirit Baptiſm, in this place, as the laſt thing he urgeth upon them, for Union: what doth he mean by Spirit and Faith, which are urged before by him, as Arguments? can Perſons have the Spirit, without the Fruits of the Spirit? Why doth not <hi>Paul</hi> put Spirit again, in the place of Baptiſm, according to your cenſe, who are pleaſed to make him ſpeaking one and the ſame thing, in his Firſt and Laſt Arguments? though the one he calls Spirit, and the other Baptiſm.</p>
+            <p>Sir, I liſt not to contend about this, but leave you to Anſwer thoſe Expoſitors that have in all their writings made this, Water Baptiſm.</p>
+            <p>
+               <pb n="15" facs="tcp:39503:13"/>
+Farther, if nothing but extraor<g ref="char:EOLhyphen"/>dinary gifts be called the Baptiſm of the Spirit, in a ſtrickt ſence, then that Baptiſm, 1 <hi>Cor.</hi> 12. muſt be wa<g ref="char:EOLhyphen"/>ter Baptiſm, as well as this in <hi>Ephe<g ref="char:EOLhyphen"/>ſians</hi> 4. and then your Argument from both is void.</p>
+            <p>Your Third Argument is, That theſe you plead for, have the Doct<g ref="char:EOLhyphen"/>rine of Baptiſmes; in which you are pleaſed to diſtinguiſh between the Doctrine, and the Practice: this is one of the ſtrangeſt Paradoxes that I have lightly obſerved; is it enough to hold practical Doctrines, to know them ſo as to hold them, and yet not do them? You need ne<g ref="char:EOLhyphen"/>ver ask a believer whether he hold a practical Doctrine, his obedience to it will always ſpeak for him: But I pray you how came theſe Unbap<g ref="char:EOLhyphen"/>tized perſons to have the Doctrine of Baptiſm? Why? the Doctrine of Baptiſm, you ſay, is the death of Chriſt, his Reſurrection; and the
+<pb n="16" facs="tcp:39503:14"/>
+believers intereſt in both, to new<g ref="char:EOLhyphen"/>neſs of life. I confeſs that Chriſt's death and reſurrection, and our in<g ref="char:EOLhyphen"/>tereſt in both, is ſignified by Bap<g ref="char:EOLhyphen"/>tiſm; but that that was, or ought to be called the Doctrine of Baptiſm, I am yet to learn: Verily, I took the Doctrine of Baptiſm to be the Com<g ref="char:EOLhyphen"/>mand, that a believer ought to be baptized in Chriſt's Name, for ſuch ends which the Goſpel expreſſes; I never took the death Chriſt, nor the reſurrection, to be the Doctrine of Baptiſm: if the Reſurrection be the Doctrine of Baptiſm, why doth the Apoſtle make that, and the Doctrine of Baptiſmes diſtinct in <hi>Hebrews</hi> 6. which you cote.</p>
+            <p>2. Under the Law all the Sacrifi<g ref="char:EOLhyphen"/>ces of that diſpenſation with their Sabaths and other things, were Tipes of that Chriſt who was the ſubſtance of all thoſe Ceremonies: If any of them then that profeſſed Faith in the <hi>Meſſiah</hi> to come, ſhould upon
+<pb n="17" facs="tcp:39503:14"/>
+ſcruples, or want of pretended light, neglect the whole, or part of that Tipical-Worſhip, why may not a man ſay of them, as this advocate ſays of the practice under debate? They had the richer and better Sa<g ref="char:EOLhyphen"/>crifice, they had the ſubſtance and body of all the Tipes: So that this principle puts the whole of Gods inſtituted Worſhip, both under Law and Goſpel, to the higheſt uncer<g ref="char:EOLhyphen"/>tainties; &amp; it is ſo indifferently com<g ref="char:EOLhyphen"/>mended to men for their practice, that the holineſs or good that is in it, is by the Author ſo indeſerna<g ref="char:EOLhyphen"/>ble, that he can hardly fix upon any thing to ſay for it, though enough he hath to ſay againſt it; and that is the third thing I would take notice of in this Argument.</p>
+            <p>Baptiſm is but a Circumſtance, as he is pleaſed often to word it: And <hi>Page</hi> 88. <hi>Onely an outward SHEW.</hi> He may have the heart of Water-Baptiſm that is never Baptized: it is
+<pb n="18" facs="tcp:39503:15"/>
+but a form, (an almoſt nothing:) men are not much better. Is it not enough for you to deſpiſe your bre<g ref="char:EOLhyphen"/>thren, but contempt alſo muſt be thrown upon this precious truth of Chriſt? from whom have you Autho<g ref="char:EOLhyphen"/>rity to nick-name any of Chriſt's precepts? is this according to the form of ſound words? will you be wiſe above what is written, and call Commands Circumſtances, only meer ſhews? do you pretend your ſelf a Miniſter of the Goſpel, and dare you thus diſparage Goſpel truths by ſuch low Titles, to diſcharge men of their obedience to them? Verily Sir, what ever you think of your ſelf, I am confident Chriſt will not take this well at your hands.</p>
+            <p>4. You ſay theſe have the Doct<g ref="char:EOLhyphen"/>rine of Baptiſm; if they have it, they underſtand it: you ſay it is the death of Chriſt, his Reſurrection, and their intereſt in it: But I conceive in the Doctrine of Baptiſm there is ſome
+<pb n="19" facs="tcp:39503:15"/>
+thing elſe that more properly re<g ref="char:EOLhyphen"/>lates to-Baptiſm as a Command, which it will be hard for you to prove theſe Unbaptized perſons have.</p>
+            <list>
+               <item>1. A right Adminiſtration.</item>
+               <item>2. A right Subject.</item>
+               <item>3. The right manner of dipping.</item>
+               <item>4. The right end.</item>
+            </list>
+            <p>Have theſe you ſpeak of the Doctrine of Baptiſm, as you ſay, and are ſtrangers to, or enemies to theſe Eſſentials of Goſpel-Baptiſm? I think upon ſecond thoughts you will hardly ſtand by it.</p>
+            <p>5. Who taught you to devide be<g ref="char:EOLhyphen"/>tween Chriſt and his Precepts, that you word it at ſuch a rate, that he that hath the one hath that which is better &amp; richer then the other? I had thought that he that hath Chriſt, hath an orderly right to all Chriſt's promiſes, and all Chriſts precepts; &amp; that the precepts of Chriſt are part of the riches which a believer hath
+<pb n="20" facs="tcp:39503:16"/>
+in and by Chriſt, and ought not to be ſo ſlightly repreſented. He that ſlightly deſpiſeth his Birth, right of Ordinances, or Church-privi<g ref="char:EOLhyphen"/>ledges will be found to be a profane perſon as <hi>Eſau,</hi> in Gods account, though he thinks it is no Sin to make a mean account of them.</p>
+            <p>Your Fourth Argument is grounded upon <hi>Romans</hi> 15. 1, 6. <hi>Receive one another to the Glory of God.</hi>
+            </p>
+            <p>I anſwer, 1. It was <hi>Paul</hi>'s directi<g ref="char:EOLhyphen"/>on to the Church at <hi>Rome,</hi> how they ought to carry it towards their Brethren Church members. And it is no ways likely, that this recei<g ref="char:EOLhyphen"/>ving is a receiving one another into Church-Communion, for they were in before: but by reaſon of thoſe Jewiſh differances that was amongſt them about meats, and drinks, and days, they were apt to grieve and Judge one another in thoſe indiffe<g ref="char:EOLhyphen"/>rent things; and to caſt each other
+<pb n="21" facs="tcp:39503:16"/>
+out of their hearts, having not that Chriſtian reſpect to each other as they ought; by which God was diſ<g ref="char:EOLhyphen"/>honoured: therefore he exalts them to receive each others into their af<g ref="char:EOLhyphen"/>fections, which would be to the Glory of God.</p>
+            <p>That the difference amongſt the <hi>Romans</hi> was about indifferent things that might, or might not be done, is clear from the 14 Chapter; their differences was not about Baptiſm, or any New Teſtament Ordinance; for I have indeavonred to prove them before Baptized: Therefore what you urge from hence comes not neer the matter in queſtion.</p>
+            <p>2. You make Gods receiving to be the rule for our receiving<g ref="char:punc">▪</g> which in all caſes will not <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>old: God re<g ref="char:EOLhyphen"/>ceives men at that very inſtant in which they receive his Son, before the fruits of their Faith appear; but ſo cannot we: God received the thief upon the Croſs, but the Church
+<pb n="22" facs="tcp:39503:17"/>
+ought not to receive him till he had given ſatisfaction by repentance, ſhewing the fruits of it, for his ſin<g ref="char:EOLhyphen"/>ful by-paſt life: I doubt not but God may receive Infants dying in Infan<g ref="char:EOLhyphen"/>cy, as the fruit of his electing love; but I ſuppoſe you your ſelf will not yet, receive them upon that ground.</p>
+            <p>3. You are pleaſed to go on in <hi>Page</hi> 91. very rhetorically: <hi>Vain man, think not by the ſtreightneſs of thine Or<g ref="char:EOLhyphen"/>der in outward and, bodily Conformity to outward &amp; ſhadowiſh Circumſtances, that thy peace is maintained with God.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> By vain man, you mean I ſuppoſe the Brethren of the Bapti<g ref="char:EOLhyphen"/>zed way, that differ from you in this point: Is this the beſt Title you have for them? But,</p>
+            <p>
+               <hi>Secondly,</hi> You pinch at the ſtreightneſs of their Order: I never knew ſtreightneſs in Order to be a crime, but rather a praiſe. <hi>Paul</hi> re<g ref="char:EOLhyphen"/>joyced to behold the Order, <hi>Col.</hi> 2. 5. as well as the Faith of the <hi>Coloſſians,</hi>
+               <pb n="23" facs="tcp:39503:17"/>
+though you deſpiſe it. But,</p>
+            <p>
+               <hi>Thirdly,</hi> You are pleaſed to ſay, it is outward and bodily Conformi<g ref="char:EOLhyphen"/>ty to outward and ſhadowiſh Cir<g ref="char:EOLhyphen"/>cumſtances.</p>
+            <p>Sir, Is outward and bodily con<g ref="char:EOLhyphen"/>formity become a crime? ought we not to glorifie God with our bodies as well as ſouls, which are Gods? Is not the whole Man to be improved in the ſer<g ref="char:EOLhyphen"/>vice <note place="margin">1 <hi>Cor.</hi> 6. 20.</note> of God? but you add in out<g ref="char:EOLhyphen"/>ward and ſhadowiſh Circumſtances; I know you mean Baptiſm, a Title that was never given (by any found in the Faith) to any New Teſtament Ordinances: But you ſay our peace is not maintained hereby, but by the Blood of the Croſs: I know our peace is made for us by the Blood of Chriſt's Croſs, but is not our peace maintained and kept alive in the way of obedience? hath your ſincere obedience to the Goſpel Commands no influence upon your Conſcience,
+<pb n="24" facs="tcp:39503:18"/>
+in the matter of peace? or, is your peace maintained in the way of diſ<g ref="char:EOLhyphen"/>obedience? if it be, I fear it is a falſe peace: I ſpeak now of peace of Con<g ref="char:EOLhyphen"/>ſcience.</p>
+            <p>2. If you mean by peace with God, that which pacifies God, and is the manifeſt cauſe of God's being at peace with us: who amongſt us ever told you that our peace in that ſence is maintained by Baptiſm? or dare you ſay that your Faith, or Love, or Obedience to any precept, doth in that ſence, either procure, or maintain your peace, in the mat<g ref="char:EOLhyphen"/>ter of Juſtification? If not<g ref="char:punc">▪</g> you ought not to pare off any part of Goſpel<g ref="char:punc">▪</g> obedience, and render it of ſo lit<g ref="char:EOLhyphen"/>tle worth; when we own the whole of what we all do, is altogether too little to be a Peace-Offering for us.</p>
+            <p>Your Fifth Argument is<g ref="char:punc">▪</g> 
+               <hi>That a failure in Batiſm doth not <g ref="char:V">Ʋ</g>nchriſtian us.</hi>
+            </p>
+            <p>
+               <pb n="25" facs="tcp:39503:18"/>
+               <hi>Anſw.</hi> Who ſaith it doth? Per<g ref="char:EOLhyphen"/>ſons ought to be Chriſtians before they are Baptized; and once a Chriſtian, and always a Chriſtian: but in purſuit of this Argument you are pleaſed to rank Water-Baptiſm with eating<g ref="char:punc">▪</g> or not eating, that if a man do it, he is not the better, or neglect it, he is not the worſe.</p>
+            <p>Verily Sir, if Goſpel-Precepts muſt be ranked with Old Teſtament Ceremonies that are abrogated by the death of Chriſt, I know not upon what account you practice inſtituted Worſhip now, unleſs upon the ſame account as <hi>Paul</hi> p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>actiſed Circumciſion upon <hi>Timo<g ref="char:EOLhyphen"/>thy,</hi> or ſhaving on others, not as a Command from God, but as a pru<g ref="char:EOLhyphen"/>dential conſideration as to others, which is below that confeſſion, or profeſſion, that hitherto you have made<g ref="char:punc">▪</g> about Baptiſm. What ever your deſign may be, either now, or hereafter.</p>
+            <p>
+               <pb n="26" facs="tcp:39503:19"/>
+Your Sixt Argument is, <hi>Edifica<g ref="char:EOLhyphen"/>tion,</hi> which you ſay is <hi>greater then agreement in outward things, and con<g ref="char:EOLhyphen"/>teſting for Water-Baptiſm.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Edification is the end of all Communion, but all things muſt be done in order, orderly. Edifica<g ref="char:EOLhyphen"/>tion as to Church-Fellowſhip, being a building up, doth ſuppoſe the be<g ref="char:EOLhyphen"/>ing of a Church, before they can be thus Edified or built up: But pray you, ſhew us a Church without Baptiſm, approved of by the New Teſtament, and then edifie them as much as you can. But if by Edifi<g ref="char:EOLhyphen"/>cation be meant the private in<g ref="char:EOLhyphen"/>creaſe of Grace in one another, in the uſe of private means, as pri<g ref="char:EOLhyphen"/>vate Chriſtians in meeting toge<g ref="char:EOLhyphen"/>ther, how doth the Principle you oppoſe, hinder that? Indeavour to make men as Holy as you can, that they may be fit for Church-Fellowſhip, when God ſhall ſhew them the orderly way to it, we
+<pb n="27" facs="tcp:39503:19"/>
+ſhall never blame you; but you ſay Edification is greater then con<g ref="char:EOLhyphen"/>teſting for Water-Baptiſm; To which I anſwer,</p>
+            <p>I had thought that a Preaching and opening Baptiſm, might have been reckoned as a part of our Edification, and we may be as well Edified by rightly knowing and underſtanding that, as by many other Ordinances, eſpecially if it ſignifie ſo much as you ſay it doth. But add,</p>
+            <p>Why may you not as well ſay that Edification is greater then breaking Bread? then any part of Church rule, or Government? and ſo at once ſhut out all inſti<g ref="char:EOLhyphen"/>tuted Worſhip; for ſomthing you call Edification. Why muſt Water-Baptiſm be the <hi>B<g ref="char:V">Ʋ</g>T</hi> that you ſo conſtantly ſhoot at?</p>
+            <p>3. How comes Conteſting for Water-Baptiſm to be ſo much a<g ref="char:EOLhyphen"/>gainſt you? is not the leaſt of truths
+<pb n="28" facs="tcp:39503:20"/>
+worth the contending for? or, what need any to trouble themſelves, to conteſt for Water-Baptiſm: If none of your new Church-members do not conteſt againſt it, in principle or practice? which if they do, at whoſe door ſhall ſinful contention be laid, ours or theirs?</p>
+            <p>As for your inſtance of <hi>Aron,</hi> it was not a conſtant continued for<g ref="char:EOLhyphen"/>bearance of that part of God's Worſhip, but a ſuſpending of it for that ſeaſon, (and perhaps upon Juſt and Lega<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> grounds, though not expreſſed,) which made that zealous man, <hi>Moſes,</hi> who ſtoned a man for gathering ſticks on the Sabath day; and was a ſpectator of God's Judg<g ref="char:EOLhyphen"/>ments on <hi>Aron</hi>'s Sons for their Sin:) ſo eaſily bear with <hi>Aron</hi> in that matter. <hi>Paul</hi> for a ſeeming low thing did withſtand <hi>Peter</hi> to his face, and blamed him. And for <hi>Elded</hi> &amp; <hi>Meded</hi> if they did miſs it, it was but in a Circumſtance of
+<pb n="29" facs="tcp:39503:20"/>
+place: It appears not, there was any poſſitive Law broken by it, which is the caſe under our debate, how often ſo ever you diſpiſingly call Baptiſm a Circumſtance: neither doth the caſe of <hi>Hezekiah</hi> reach our caſe: it was indeed their not being prepared for that ſervice, which was their Sin, and may be too fitly compared to unpreparedneſs, to the Lords Supper, or other ſolemn ap<g ref="char:EOLhyphen"/>pointments, for which we do not caſt, nor keep any out of the Church, it being no denying either in word or practice, of any poſſitive Ordi<g ref="char:EOLhyphen"/>nance; which is that we charge your intended Church-members with.</p>
+            <p>Your Seventh Argument for Communion with Unbaptized per<g ref="char:EOLhyphen"/>ſons, is, <hi>Love.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> That man that makes af<g ref="char:EOLhyphen"/>fection the rule of his walking, ra<g ref="char:EOLhyphen"/>ther then Judgement, it is no won<g ref="char:EOLhyphen"/>der to me, if he go out of the way.
+<pb n="30" facs="tcp:39503:21"/>
+We can as boldly aſſert our Love to all the Godly, though Unbaptized, as you; and I think we have not been behind hand to manifeſt it, either in private Duties of Piety with them, wherein we are agreed; or in works of Charity towards them, in all their ſufferings, accor<g ref="char:EOLhyphen"/>ding to our utmoſt ability: But muſt our love to theſe, indulge them in any act of diſobedience? cannot we love their Perſons, Parts, Gra<g ref="char:EOLhyphen"/>ces, but we muſt love their Sins, and diſorders? I take it to be the higheſt act of friendſhip to be faithful to theſe profeſſors, and to tell them they want this one thing in Goſpel order, which ought not to be left undone; and I doubt your favour towards them, in deſcrying before them one of Chriſts Commands, as a Circumſtance, meer ſhew, that that may, or may not be done; for which we are neither better nor worſe (in your ſence) making it no more then
+<pb n="31" facs="tcp:39503:21"/>
+eating, or not eating, as men are perſwaded: Is this your faithful<g ref="char:EOLhyphen"/>neſs to your friends, that you pre<g ref="char:EOLhyphen"/>tend ſo much love to? I doubt when it comes to be weighed in God's Ballance, it will be found no leſs then Flattery, for which you will be reproved. May I not love a Saint, as a Saint for Chriſt's ſake, unleſs I hold Church-Communion with him? unleſs I countenance him in a breach of Goſpel Order? Nay, if a Child of God fall into Sin, or diſ<g ref="char:EOLhyphen"/>order, without the due ſence of his Sin, yet I ought to love him: though I am forced to deal with him, and to withdraw from him, yet I am not to count him as an enemy, but admoniſh as a brother in ſome reſpects: and muſt we be Judged to have no love to the perſons un<g ref="char:EOLhyphen"/>der debate, becauſe we are not willing to ſuffer them to ſit down ſatisfied with a lye, inſtead of the truth, a falſe Baptiſm, inſtead of
+<pb n="32" facs="tcp:39503:22"/>
+Chriſt's appointment, if in that matter <hi>Ephraim</hi> like, they are joyn<g ref="char:EOLhyphen"/>ed to an Jdol, muſt I not wait till God ſhews them that abomination, and yet love them for what of God we ſee in them?</p>
+            <p>Your Eighth Argument is from the ſtate of the Church of <hi>Corinth,</hi> who you ſay are called <hi>Carnal,</hi> for their diviſions, and ſhutting each o<g ref="char:EOLhyphen"/>ther out of Communion for greater points, and on higher pretences then that of Water-Baptiſm.</p>
+            <p>
+               <hi>Anſw.</hi> It is true, there was di<g ref="char:EOLhyphen"/>viſions in the Church of <hi>Corinth,</hi> for which they are often called Carnal: and their diviſions was about greater things then Bap<g ref="char:EOLhyphen"/>tiſm, I grant: for I believe it was not ba<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ely their diviſions about perſons, but the higheſt Fundamen<g ref="char:EOLhyphen"/>tal Principles, oppoſed by ſome of the leaders of thoſe Factions amongſt them; as denying the re<g ref="char:EOLhyphen"/>ſurrection of the dead; as <hi>Paul</hi>
+               <pb n="33" facs="tcp:39503:22"/>
+ſaith ſome of them did, <hi>Chap.</hi> 15. but whereas you ſay they ſhut one a<g ref="char:EOLhyphen"/>nother out of Communion for theſe things, that I find not: (What ever they might or ought to do) it is cer<g ref="char:EOLhyphen"/>tain they were a Church in order, planted upon Goſpel Principles, though afterwards ſome of them declined from thoſe Principles: and though the Principles about which they might differ, was great<g ref="char:EOLhyphen"/>er then Baptiſm, is true, but that without much means, and due waiting for the fruit of that means, they could not ſhut them out of Communion is as true; and I put it to<g ref="char:punc">▪</g> your ſelf, if any perſon ſhould offer Communion with you, that deny the Reſurrection, would you receive him? but if any perſon do after receiving deny that, or o<g ref="char:EOLhyphen"/>ther Principles, can you immedi<g ref="char:EOLhyphen"/>ately ſhut him out of the Church, without the uſe of means, and waiting? this ſeems to me to be
+<pb n="34" facs="tcp:39503:23"/>
+their caſe, which agrees not with the controverſie in hand. But you ſay their diviſions was about Perſons, <hi>Paul, Apollo,</hi> and <hi>Chriſt:</hi> I do grant their diviſion was about perſons, their Teachers; and one was for one, and others for a<g ref="char:EOLhyphen"/>nother; but I queſtion whether any of them in this diviſion was for <hi>Paul, Apollo,</hi> or <hi>Chriſt;</hi> but rather for others in oppoſition to them who were true Miniſters: My reaſon is, becauſe <hi>Paul</hi> tells us that what he had ſaid of himſelf and <hi>Apollo,</hi> was in a Figure, 1 <hi>Cor.</hi> 4. 6. not properly, but doth modeſtly aply the buſineſs to himſelf and others, as though their diviſions was about them, when it was not about them, but others that did oppoſe them, namely the falſe Apoſtles, or Notional Teachers of that Church.</p>
+            <p>
+               <hi>Secondly,</hi> You tell us, the great diviſions of <hi>Corinth</hi> was helped for<g ref="char:EOLhyphen"/>ward
+<pb n="35" facs="tcp:39503:23"/>
+by Water-Baptiſm: a very high charge againſt this great truth: It is no wonder you lay diviſions at our doors, when Bap<g ref="char:EOLhyphen"/>tiſm it ſelf muſt be accuſed as a make-bate, or a furtherer of di<g ref="char:EOLhyphen"/>viſions amongſt the Saints: Oh! let the heavens bluſh at the inſo<g ref="char:EOLhyphen"/>lency of this man of words; that ever Chriſt ſhould appoint an Or<g ref="char:EOLhyphen"/>dinance ſo highly detrimental to the peace of Saints. But how doth it appear that Baptiſm hath a hand in theſe diviſions? becauſe <hi>Paul</hi> imitates they were not Bap<g ref="char:EOLhyphen"/>tized in his name: a good Argu<g ref="char:EOLhyphen"/>ment to provoke to union; and to take them off from doting upon thoſe Factious leaders amongſt them; by whom it is like they were moſt of them Baptized, to let them know they were not Baptized in the names of men, but of Chriſt. But wherein lies the force of this mans Argument againſt Baptiſm,
+<pb n="36" facs="tcp:39503:24"/>
+as to its place, worth, or continu<g ref="char:EOLhyphen"/>ance? Why? it is urged from two grounds.</p>
+            <p>
+               <hi>Firſt,</hi> Becauſe <hi>Paul</hi> knew not that he Baptized a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y but thoſe he names; which argues, <hi>he made not ſo great a matter of Baptiſm as ſome do now adays, for then he would have heeded it better, and made more Conſcience thereof, then ſo lightly paſs it over:</hi> What muſt the bleſſed Apoſtles Conſcience be cal<g ref="char:EOLhyphen"/>led in queſtion about one of Chriſt's appointments? and muſt it be ſup<g ref="char:EOLhyphen"/>poſed he is ſo negligent in this matter? and only becauſe he knew not who of the <hi>Corinths</hi> he had Baptized. Is this ſo demonſtrable a ground? Sir, if one ſhould ask you how many you have Baptized in the Courſe of your Miniſtry, can you give an account? I think not, (unleſs you have kept a Record by you, of the per<g ref="char:EOLhyphen"/>ſons, that your works might be
+<pb n="37" facs="tcp:39503:24"/>
+heard of to your praiſe, as occa<g ref="char:EOLhyphen"/>ſion ſerves;) which I ſuppoſe few Miniſters do, neither did <hi>Paul</hi> it ſeems by his own words. I could tell you of a perſon that is zea<g ref="char:EOLhyphen"/>lous for Baptiſm in the ſence that you oppoſe, and makes Conſcience of it, as one of Chriſt's Precepts, to that degree which you diſalow of; and yet for thoſe few that he hath Baptized, far ſhort of what <hi>Paul,</hi> or you may have done, and yet he knows not, remembers not, who of the Church he walks with, that he hath Baptized, much leſs the number, or names of them he hath Baptized elſe where, and yet but one of the meaneſt diſ<g ref="char:EOLhyphen"/>pencers of Baptiſm, who hath had leſs ſhare in that bleſſed work, then many others he knows a<g ref="char:EOLhyphen"/>mongſt us. That <hi>Paul</hi> did firſt gather and plant the Church of <hi>Corinth,</hi> is clear; but that the many that were added to that populous peo<g ref="char:EOLhyphen"/>ple,
+<pb n="38" facs="tcp:39503:25"/>
+might be Baptized by the teaching brethren amongſt them<g ref="char:EOLhyphen"/>ſelves, is more then probable, and therefore well might <hi>Paul</hi> ſay, <hi>He knew not, or did not remember who he had Baptized amongſt them.</hi>
+            </p>
+            <p>But your Second ground is from <hi>Paul</hi>'s thanking God, and telling us he was not ſent to Baptize, but to Preach the Goſpel: Doth this prove that <hi>Paul</hi> ſlighted Bap<g ref="char:EOLhyphen"/>tiſm? I think not, as will after<g ref="char:EOLhyphen"/>wards appear.</p>
+            <p>That <hi>Paul</hi> did Baptize ſome of them, and many others, is not to be queſtioned, becauſe expreſſed: That <hi>Paul</hi> did any thing in this or other Ordinances, but what he had a Commiſſion for, may not be preſumed: his meaning then muſt be, that he was not only, or mainly ſent to Baptize, but Preach; as the great work he was to a<g ref="char:EOLhyphen"/>tend upon. Note, he doth not ſay he was not ſent to Preach Baptiſm,
+<pb n="39" facs="tcp:39503:25"/>
+but not mainly to Baptize: He had the ſame Commiſſion to Preach Baptiſm, as Faith; and he could not be true to his truſt, if he ſhould ſhun to declare that part of the Counſel of God, as occaſion ſer<g ref="char:EOLhyphen"/>ved, and required. And yet though he Preached Faith and Baptiſm, he might Baptize but few of them that were perſwaded to obedience by his Miniſtry, but the bare diſpencing that ordinance, might be by any gifted Brother, called to that work.</p>
+            <p>
+               <hi>Annanias,</hi> a certain Diſciple, Bap<g ref="char:EOLhyphen"/>tized <hi>Paul;</hi> (and not an Apoſtle.) <hi>Peter</hi> commanded Cornelius, and thoſe that were with him, to be Baptized: but the Text doth not ſay Peter did it; it might be done by ſome of the Brethren that came with him: neither can it reſona<g ref="char:EOLhyphen"/>bly be ſuppoſed that the 3000. converted by <hi>Peter</hi>'s Sermon, <hi>Act.</hi> 2. was all Baptized by him, or the
+<pb n="40" facs="tcp:39503:26"/>
+Apoſtles only; but it is very like they had many adminiſtrators, which doth not at all intrench upon the great Commiſſion of Chriſt, but is found in it; it being given to Preaching Diſciples, as Preaching Diſciples; and all Preaching Diſ<g ref="char:EOLhyphen"/>ciples have authority from thence, to Preach and Baptize; (theſe be<g ref="char:EOLhyphen"/>ing properly no Church-Ordinan<g ref="char:EOLhyphen"/>ces) though in order to it.</p>
+            <p>Your Ninth Argument is, <hi>That by denying Communion with <g ref="char:V">Ʋ</g>nbap<g ref="char:EOLhyphen"/>tized perſons we take from them their priviledge to which they are born.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> We take from them no<g ref="char:EOLhyphen"/>thing; but we keep them from a diſorderly practice of Goſpel Or<g ref="char:EOLhyphen"/>dinances: we offer them their pri<g ref="char:EOLhyphen"/>viledge in the way of Goſpel or<g ref="char:EOLhyphen"/>der, as all the Scripture Saints received their Priviledges. But if any will find, and force another way into the Sheepfold, then by following the footſteps of the Flocks,
+<pb n="41" facs="tcp:39503:26"/>
+we have no ſuch cuſtome, nor the Churches of God, you according to your old manner of confidence affirm. Drink <hi>ye all of this?</hi> Is this in<g ref="char:EOLhyphen"/>tailed to Faith, and not Baptiſm? It is ſoon ſaid, but never yet proved; it is neither intailed by Precept, Promiſe, or preſident, to Faith, without Baptiſm, that ever yet can be ſhewed: Nay, it is moſt ap<g ref="char:EOLhyphen"/>parent, that this new way of fel<g ref="char:EOLhyphen"/>lowſhip was not from the begin<g ref="char:EOLhyphen"/>ning, but Baptiſm went before, as a Simbol of our new birth: and breaking bread followed after, as the ſpiritual nouriſhment of Chriſt's new born Babes.</p>
+            <p>As for your Eighteen Inferances, or Abſurdities drawn for our Prin<g ref="char:EOLhyphen"/>ciple and Practice, they are in themſelves ſo rediculous, ſo top<g ref="char:EOLhyphen"/>ful of ignorance, or prejudice; and are in themſelves ſuch a heap of unheard of reproaches, that de<g ref="char:EOLhyphen"/>ſerve no other anſwer then con<g ref="char:EOLhyphen"/>tempt;
+<pb n="42" facs="tcp:39503:27"/>
+they carrying their ſelf contradiction in their own bowels. I durſt commit this cauſe to the worſt of our Enemies, and doubt not they themſelves being Judges, would clear us in the things laid to our charge; that none but your ſelf could ever find an innocent truth, big with ſo many monſtrous obſurdities, as you do. You have carried it like one of <hi>Machevel</hi>'s Schollers, to purpoſe, <hi>Throw dirt enough, and ſome of it will be ſure to ſtick.</hi> And the laſt of all looks with ſo dreadful a countenance, that it hath a tendency, to provoke, not only all other profeſſors, but all ſorts of perſons, to ſhun us, as well as or Principle, as that which is ruining to mankind in general; that they may upon that account (if true) eye us, as the moſt pernicious varment under heaven; perſons made to be taken and deſtroyed. Can you ſo confidently affirm, that
+<pb n="43" facs="tcp:39503:27"/>
+this principle and practice is the cauſe of all our late Judgements. Sir, it is well for us, that you are none of the Kings Chaplains; or if you were, that his Majeſty had not an ear to hear, or a heart to believe ſuch unheard of reproa<g ref="char:EOLhyphen"/>ches as theſe are; for if he did, he could do no leſs, then expulſe ſuch vipers, that have been the death of ſo many hundred thou<g ref="char:EOLhyphen"/>ſands of his ſubjects, as your de<g ref="char:EOLhyphen"/>viliſh ſuggeſtions ſeems to intimate, not only out of the Land, but out of the World.</p>
+            <p>Sir, who made you ſo privy to the ſecrets of Gods Judgements, that you muſt aſſign this alone, as the cauſe of (not ſome but) all the Judgements that have befallen us? And is not this high charge a prouded, preſumptious, im<g ref="char:EOLhyphen"/>peaching of the Juſtice of God? Shall not the Judge of all the earth do righteouſly? <hi>Gen</hi> 19. <hi>Will</hi>
+               <pb n="44" facs="tcp:39503:28"/>
+               <hi>he ſlay the innocent with the guilty?</hi> Are there not millions lately ſwept into the Grave, and buri<g ref="char:EOLhyphen"/>ed in the great deeps, that never heard, directly, or indirectly of the controverſie between you, and us, nor knew nothing of the form or order of Gods houſe; and muſt their ruine lye at our doors? No wonder Sir, that you deal ſo ſe<g ref="char:EOLhyphen"/>verely with us, ſince the Righte<g ref="char:EOLhyphen"/>ous proceeds of the great God, have ſuch a hidden cauſe aſſigned to them, as though the times pro<g ref="char:EOLhyphen"/>phaneſs, Superſtition, Blaſphemy; and Atheiſm, hath no hand in our late Judgements, but the load of all, muſt be laid upon that which ſo few that ſuffered, are concerned in. The Lord Judge between us, and this accuſer; to whom we ſhall ſay no more, but, <hi>The Lord rebuke thee.</hi>
+            </p>
+            <p>
+               <pb n="45" facs="tcp:39503:28"/>
+Your Tenth and laſt Argument hath ſo little reaſon, and ſo much of confuſion in it, that it renders it ſelf unworthy of an anſwer. <hi>That the World may wonder at our carriage to theſe <g ref="char:V">Ʋ</g>nbaptized perſons, in keeping them out of Communion,</hi> is your laſt Argument.</p>
+            <p>
+               <hi>Anſw.</hi> I grant, the World are in ſome caſes Judges of our con<g ref="char:EOLhyphen"/>verſation; and it becomes us to carry it well in thoſe things, where<g ref="char:EOLhyphen"/>in they are capable to be Judges: but I deny, that the World are proper Judges of the grounds of our Profeſſion, or Communion, as to Church-fellowſhip: theſe things are out of their ſight; and they do oftener Judge them that walk cloſeſt in their duty, then they that are for the greateſt li<g ref="char:EOLhyphen"/>berty. All that the enemy could find againſt <hi>Daniel,</hi> was in the matters of his God, (in the buſi<g ref="char:EOLhyphen"/>neſs of Worſhip,) which the World World
+<pb n="46" facs="tcp:39503:29"/>
+are uncapable to Judge of: And therefore what you ſay, as to their reproaches, doth clearly vaniſh: and if you eye that you may preach and pray, eſpecially Baptize no more, which I perceive you have no great zeal for.</p>
+            <p>I ſhall now take liberty to add ſome Arguments to Juſtifie our Principle and Practice, againſt all that you have ſaid to the con<g ref="char:EOLhyphen"/>trary.</p>
+            <p>THe Queſtion is, <hi>Whether <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>baptzed perſons have been, or ought to be members of Goſpel Chur<g ref="char:EOLhyphen"/>ches.</hi>
+            </p>
+            <p>I anſwer, <hi>They ought not to be:</hi> for theſe Reaſons.</p>
+            <p>
+               <hi>Firſt,</hi> Becauſe the great Com<g ref="char:EOLhyphen"/>miſſion of Chriſt, <hi>Mat.</hi> 28. (from
+<pb n="47" facs="tcp:39503:29"/>
+which all perſons have their Au<g ref="char:EOLhyphen"/>thority for their Miniſtry, (if any Authority at all) doth clearly di<g ref="char:EOLhyphen"/>rect the contrary by that Com<g ref="char:EOLhyphen"/>miſſion. Miniſters are, firſt to Diſ<g ref="char:EOLhyphen"/>ciple, and then Baptize them, ſo made Diſciples; and afterward teach them to obſerve all that Chriſt had commanded, as to other Ordinances of Worſhip. If Mini<g ref="char:EOLhyphen"/>ſters have no other authority to teach them other parts of Goſpel Worſhip, before they believe and are Baptized, it may be ſtrongly ſuppoſed, they are not to admit them to other Ordinances, before they have paſſed the firſt injoyned in that Commiſſion.</p>
+            <p>
+               <hi>Secondly,</hi> That the order of Chriſt's Commiſſion, as well as the matter therein contained, to be ob<g ref="char:EOLhyphen"/>ſerved, may eaſily be concluded from Gods ſeverity towards them that ſought him not according to
+<pb n="48" facs="tcp:39503:30"/>
+due order; 1 <hi>Chron.</hi> 15. 13. Was God ſo exact with his people then, that all things, to a pin, muſt be according to the pattern in the Mount? <hi>Heb.</hi> 7. 16, and 9, 10. whoſe Wor<g ref="char:EOLhyphen"/>ſhip then compartively, to the Goſpels, was but after the Law of a carnal Commandment: and can it be ſuppoſed, he ſhould be ſo in<g ref="char:EOLhyphen"/>different, now to leave men to their own liberty, to time and place his appointments contrary to what he hath given an expreſs rule for, in his word, as before ſhewed, <hi>Ezekiel</hi> 44. 7, 9, 10. <hi>It was the Prieſts Sin for<g ref="char:EOLhyphen"/>merly to bring the <g ref="char:V">Ʋ</g>ncircumciſed in heart and fleſh into his houſe.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> The practice of the firſt Goſpel Miniſters, with them that firſt truſted in Chriſt, diſcovers the truth of what I aſſert. Certainly they that lived at the Spring-head, on Fountain of truth; and had the Law from Chriſt's own mouth,
+<pb n="49" facs="tcp:39503:30"/>
+knew the meaning of his Commiſ<g ref="char:EOLhyphen"/>ſion, better then we: But their conſtant practice, in conformity to that Commiſſion, all along the Acts of the Apoſtles, clearly diſcovers that they never arrived to ſuch a Latitude as men plead for now adays: <hi>They that gladly received the Word was Baptized, and they (yea they only) was received to the Church,</hi> Acts 2.</p>
+            <p>
+               <hi>Fourthly,</hi> None of the Scripture Saints ever attempted this Church-Priviledge, before Baptiſm, (if they did, let it be ſhewn:) the Eunuch<g ref="char:punc">▪</g> firſt deſired Baptiſm, before any thing elſe: <hi>Paul</hi> was firſt Baptized, before he did aſſay to joyn with the Church: our Lord Chriſt, the great example of the New Teſta<g ref="char:EOLhyphen"/>ment, entred not upon his pub<g ref="char:EOLhyphen"/>lique Miniſtry, much leſs any o<g ref="char:EOLhyphen"/>ther Goſpel Ordinance of Worſhip, till he was Baptized.</p>
+            <p>
+               <pb n="50" facs="tcp:39503:31"/>
+               <hi>Fifthly,</hi> If Chriſt himſelf was made manifeſt, as the ſent of God, by Baptiſm, as appears <hi>Mark</hi> 1. 9, 10. then why may not Baptiſm as the firſt fruit of Faith, and the firſt ſtep of Goſpel obedience, as to inſtituted Worſhip, be a manifeſting, diſcovering Ordinance upon others, who thus follow Chriſt's ſteps?</p>
+            <p>
+               <hi>Sixthly,</hi> If Baptiſm be in any fence, any part of the Foundation of a Church, as to order, <hi>Heb.</hi> 6. 1, 2. it muſt have a place here, or no where. Why are thoſe things called firſt Principles, if not firſt to be believed and practiſed? Why are they rendred by the learned, as the <hi>A B C</hi> of a Chriſtian, and the beginnings of Chriſtianity, milk for babes, if it be no mat<g ref="char:EOLhyphen"/>ter whither Baptiſm be practiſed or no? If it be ſaid Water-Bap<g ref="char:EOLhyphen"/>tiſm be not there intended, let them ſhew me how many Baptiſ<g ref="char:EOLhyphen"/>mes
+<pb n="51" facs="tcp:39503:31"/>
+there are beſides Water-Bap<g ref="char:EOLhyphen"/>tiſme: Can you build, and leave out a ſtone in the Foundation? I intend not Baptiſm as a founda<g ref="char:EOLhyphen"/>tion any other way, but reſpecting order; and it is either intended for that, or nothing.</p>
+            <p>
+               <hi>Seventhly,</hi> If <hi>Paul</hi> knew the <hi>Galathians,</hi> upon the account of Charity, no other way to be the Sons of God by Faith, but by this part of their obedience, as he ſeems to import; then the ſame way we may Judge of the truth of mens profeſſion of Faith, when it ſhews it ſelf by this ſelf ſame o<g ref="char:EOLhyphen"/>bedience, <hi>Gal.</hi> 3. 26, 27. Baptiſm being an obligation to all follow<g ref="char:EOLhyphen"/>ing duties.</p>
+            <p>
+               <hi>Eighthly,</hi> If being Baptized in<g ref="char:EOLhyphen"/>to Chriſt, be a putting on of Chriſt, as <hi>Paul</hi> expreſſes, then they have not put on Chriſt in that
+<pb n="52" facs="tcp:39503:32"/>
+ſence he means, that are not Bap<g ref="char:EOLhyphen"/>tized. If this putting on of Chriſt do not reſpect the viſibility of Chriſtianity, aſſign ſomething elſe as its ſignification, great mens ſer<g ref="char:EOLhyphen"/>vants are known by their Maſters Liveries, ſo are Goſpel believers by this Livery of Water Bap<g ref="char:EOLhyphen"/>tiſm, that all that firſt truſted in Chriſt, ſubmitted to: which is in it ſelf, as much as an Obli<g ref="char:EOLhyphen"/>gation to all Goſpel obedience, as Circumciſion was to keep the whole Law.</p>
+            <p>
+               <hi>Ninthly,</hi> If it were com<g ref="char:EOLhyphen"/>mendable in them of <hi>Thoſſalonica,</hi> that they followed the foot-ſteps of the Church of <hi>Judah,</hi> who, it appeares, obſerved this Order, of adding Baptized believers to the Church, then they that have found out another way of mak<g ref="char:EOLhyphen"/>ing Church-members, are not by that rule <note place="margin">
+                  <hi>1 Theſ.</hi> 2. 14.</note> praiſe-worthy, but ra<g ref="char:EOLhyphen"/>ther
+<pb n="53" facs="tcp:39503:32"/>
+to be blamed: It is not what was ſince in corrupted times, but that which was from the beginning: the firſt Churches was the pureſt pattern.</p>
+            <p>
+               <hi>Tenthly,</hi> If ſo be that any of the members of <hi>Corinth, Galatia, Coloſs, Rome,</hi> 
+               <note place="margin">
+                  <hi>Romans.</hi> 6. <hi>Coloſ.</hi> 2. 1 <hi>Cor.</hi> 15.</note> or them that <hi>Peter</hi> writes to, were not Baptized, then <hi>Paul</hi>'s Arguments for the Reſurrection to them, or to preſs them to Holineſs, from that ground, was out a doors, and altogether need<g ref="char:EOLhyphen"/>leſs: Nay, it beſpeaks his ignorance; and <note place="margin">1 <hi>Pet.</hi> 3. 12.</note> throws contempt up<g ref="char:EOLhyphen"/>on the Spirits Wiſ<g ref="char:EOLhyphen"/>dom, <note place="margin">
+                  <hi>Heb.</hi> 6.</note> by which he wrote, if that muſt be aſſerted as a ground to provoke them to ſuch an end, which had no being a and if all the members of all
+<pb n="54" facs="tcp:39503:33"/>
+thoſe Churches were Baptized, why ſhould any plead for an ex<g ref="char:EOLhyphen"/>emption from Baptiſm, for any Church-members now?</p>
+            <p>
+               <hi>Eleventhly,</hi> If Unbaptized per<g ref="char:EOLhyphen"/>ſons muſt be received into the Church, only, becauſe they are believers; though they deny Bap<g ref="char:EOLhyphen"/>tiſm, then why may not others plead for the like priviledge, that are negligent in any other Goſpel Ordinance of Worſhip, from the ſame ground, of want of light, let it be what it will. So then, as the Conſequence of this Principle, Churches may be made up of viſible Sinners, in<g ref="char:EOLhyphen"/>ſtead of viſible Saints.</p>
+            <p>
+               <hi>Twelfthly,</hi> Why ſhould pro<g ref="char:EOLhyphen"/>feſſors have more light in break<g ref="char:EOLhyphen"/>ing of bread, then Baptiſm? (that this muſt be ſo urged for their excuſe) hath God been
+<pb n="55" facs="tcp:39503:33"/>
+more ſparing in making out his mind, in the one, rather then the other? Is there more pre<g ref="char:EOLhyphen"/>cepts, or preſidents for the Sup<g ref="char:EOLhyphen"/>per, then Baptiſm? hath God been ſo bountiful, in making out himſelf about the Supper, that few or none, that own Or<g ref="char:EOLhyphen"/>dinances, ſcruple it; and muſt Baptiſm be ſuch a Rock of of<g ref="char:EOLhyphen"/>fence to profeſſors, that very few will ſeriouſly enquire after it, or ſubmit to it? hath not mans wiſdom interpoſed, to dark<g ref="char:EOLhyphen"/>en this part of Gods Counſel, by which profeſſors ſeem willing<g ref="char:EOLhyphen"/>ly led, though againſt ſo many plain commands and examples, written as with a Sun beam, that he that runs may read; and muſt an advocate be intertained to plead for ſo groſe a piece of ignorance, that the meaneſt babes of the firſt Goſpel times were ne<g ref="char:EOLhyphen"/>ver guilty of?</p>
+            <p>
+               <pb n="56" facs="tcp:39503:34"/>
+               <hi>Thirteenthly,</hi> If obedience muſt diſcover the truth of a mans Faith to others? why muſt Bap<g ref="char:EOLhyphen"/>tiſm be ſhut out, as if it were no part of Goſpel obedience? is there no precept for this practice, that it muſt be thus diſpiſed, as a matter of little uſe? or ſhall one of Chriſts precious commands, be blotted out of the Copy of a Chriſtians obedience, to make way for a Church-Fellowſhip of mans deviſing?</p>
+            <p>
+               <hi>Fourteenthly,</hi> If the Baptiſm of <hi>John,</hi> was ſo far honoured, and dignified, that they that did ſub<g ref="char:EOLhyphen"/>mit to it, are ſaid to Juſtifie God; and they that did not, are ſaid, <hi>Luke</hi> 7. to reject his Counſel, a<g ref="char:EOLhyphen"/>gainſt themſelves; ſo that their receiving, or rejecting the whole Doctrine of God, by <hi>John,</hi> hath its demonſtration from this ſingle practice: and is there not as much
+<pb n="57" facs="tcp:39503:34"/>
+to be ſaid of the Baptiſm of Chriſt? unleſs you will ſay it is <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in worth and uſe, to that of <hi>John</hi>'s.</p>
+            <p>I add no more, but theſe few Queries, which I commmit to your moſt ſerious conſideration.</p>
+            <div type="queries">
+               <pb n="58" facs="tcp:39503:35"/>
+               <head>Some Queries.</head>
+               <p n="1">1. ASk your heart whether popilarity, and ap<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lauſe of variety of profeſſors, be not in the bottom of what you have ſaid; that hath been your ſnare, to perve<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the ſtreight way of the Lord, and to lead others into a path, wherein we can find none of the foot-ſteps of the Flocks in the firſt time?</p>
+               <p n="2">2. Have you dealt brother<g ref="char:EOLhyphen"/>ly, or like a Chriſtian, to throw ſo much dirt upon your Brethren, in Print, in the face of the World, when you had opportunity to converſe
+<pb n="59" facs="tcp:39503:35"/>
+                  <hi>with <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of reputation,</hi> amongſt <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Printing; being <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the liberty by them, at the ſame time, for you to ſpeak amongſt them?</p>
+               <p n="3">3. Doth your carriage an<g ref="char:EOLhyphen"/>ſwer the Law of Love, or Civility, when the Brethren uſed means to ſend to you for a conference, and their Let<g ref="char:EOLhyphen"/>ter was received by you, that you ſhould go out again from the City, after knowledge of their deſires, and not vouch<g ref="char:EOLhyphen"/>ſafe a meeting with them, when the Glory of God, and the vindication of ſo many Churches, is concerned?</p>
+               <p n="4">4. Is it not the Spirit of <hi>Diophrites</hi> of old, in you, <hi>Who</hi>
+                  <pb facs="tcp:39503:36"/>
+                  <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> loved to <gap reason="illegible" resp="#APEX" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> preheminen<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#APEX" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi> 
+                  <note place="margin">3 <hi>John</hi> 9. 10.</note> you are <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> as to keep out all the Brethren that are not of your mind in this matter, from having any entertainment in the Chur<g ref="char:EOLhyphen"/>ches, or meetings to which you belong, though you your ſelf have not been denyed the like liberty, amongſt them that are contrary minded to you? is this the way of your retaliation? or are you affraid leſt the truth ſhould in this matter invade your Quarters?</p>
+               <p n="6">6. Is there no contempt caſt upon the Brethren, who de<g ref="char:EOLhyphen"/>ſired your ſatisfaction, that at the ſame time, when you had opportunity to ſpeak to them,
+<pb facs="tcp:39503:36"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> that, you commit<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etter to others, by <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> reflection upon them?</p>
+               <p n="6">6. Did not your preſumpti<g ref="char:EOLhyphen"/>on prompt you to provoke them to Printing, in your Letter, to them, when they deſired to be found in no ſuch practice, leaſt the enemies of truth ſhould take advantage by it?</p>
+               <p n="7">7. Whether your Principle &amp; Practice is not equally againſt others, as well as us? <hi>viz.</hi> Epiſco<g ref="char:EOLhyphen"/>pal, Presbiterian, and Indepen<g ref="char:EOLhyphen"/>dent, who are all of our ſide, for our practice (though they differ with us about the ſubject of Baptiſm:) do you delight to have your hand againſt every man?</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:39503:37"/>
+            <p>IN the Epiſtle, Pag<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>preſident.</hi> p. 8. l. 17. <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Elie.</hi> p. 16. l. 12. r. <hi>death of <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> l. 4. r. <hi>exhorts.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <list>
+               <item>1. SYmtomes of growth, and decay of godlineſs, in eighty ſigns of a living and dying Chriſtian, with the cauſes of decay, and remedies for re<g ref="char:EOLhyphen"/>covery. The ſecond Edition much enlarged, with the Addition alſo of twenty ſigns largely improved.</item>
+               <item>2. A new and uſeful Concordance to the Holy Bible, according to the laſt Tranſlation, containing the moſt material Scriptures, in the Line &amp; Margent of the old and new Teſta<g ref="char:EOLhyphen"/>ment, together with the chief ac<g ref="char:EOLhyphen"/>ceptations of ſpecial words, with notes to diſtinguiſh the promiſes, commands, and threatnings, being plainer, and much larger then any of this Volume yet extant. In Octavo and Twelves: Alſo to be had bound up with the Bible, in both Volumes. By Mr. <hi>Vaviſor Powel.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:39503:37"/>
+         </div>
+      </back>
+   </text>
+</TEI>
